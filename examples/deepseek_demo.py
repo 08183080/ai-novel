@@ -30,4 +30,4 @@ def make_sory(prompt_path, output_path):
     
 
 if __name__ == '__main__':
-    make_sory('../prompts/古龙v3.md', '../stories/江湖_18.txt')
+    make_sory('../prompts/历史扩写.txt', '../stories/高欢_1.txt')
